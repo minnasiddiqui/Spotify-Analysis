@@ -1,5 +1,7 @@
 # Spotify-Analysis
-Hello all! Here's a python project that was done using the input file, SpotifySongs-Dataset.csv and displays relevant information about songs and artists available on the popular platform Spotify. It completes the following tasks using the function data_to_dict that returns a  dictionary with the data from input file:
+*hint: for code, switch branch
+Hello all! Here's a python project that was done using the input file, SpotifySongs-Dataset.csv and displays relevant information about songs and artists available on the popular platform Spotify. It completes the following tasks using the function data_to_dict that returns a dictionary with the data from input file:
+
 How many artists exists in this dataset?
 
 How many songs exists?
